@@ -67,3 +67,6 @@ POST /api/students
   "email": "mosarps.48@gmail.com",
   "grades": 89.7
 }
+
+## Demo video link
+https://www.loom.com/share/bc1e7942a4a3427b96eb088246d451e7
