@@ -70,3 +70,9 @@ POST /api/students
 
 ## Demo video link
 https://www.loom.com/share/bc1e7942a4a3427b96eb088246d451e7
+
+##screenshot
+<img width="1366" height="698" alt="t4g4" src="https://github.com/user-attachments/assets/e7b85d0f-1d03-4db5-b534-53b10e95b5dd" />
+<img width="1361" height="728" alt="t4g3" src="https://github.com/user-attachments/assets/e8f368c3-b095-4614-bf12-ae3eb3b65936" />
+<img width="1359" height="718" alt="t4g2" src="https://github.com/user-attachments/assets/9fc52454-d98c-4f69-8df9-f48f1ee3d674" />
+<img width="1345" height="730" alt="t4g1" src="https://github.com/user-attachments/assets/42481dc1-4930-4e2a-8c00-250e6fe38dd7" />
